@@ -2,6 +2,7 @@ import React from 'react'
 
 const register = () => {
 const register = () => {
+const register = () => {
   return (
     <div>
       
@@ -9,5 +10,6 @@ const register = () => {
   )
 }
 
+export default register
 export default register
 export default register
