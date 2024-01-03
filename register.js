@@ -350,3 +350,25 @@ const register = () => {
 }
 
 export default register
+import React from 'react'
+
+const register = () => {
+  return (
+    <div>
+      
+    </div>
+  )
+}
+
+export default register
+import React from 'react'
+
+const register = () => {
+  return (
+    <div>
+      
+    </div>
+  )
+}
+
+export default register
